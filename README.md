@@ -1,1 +1,1 @@
-# Music-Player
+ create a music player website, where I add song and song's control button to play or pause the song and also add progress bar that will display the current time of the song. I make this music play using HTML CSS and JavaScript.
